@@ -18,7 +18,7 @@ This project showcases a collection of Google Earth Pro screenshots highlighting
 Below are some examples of the surf spots featured in this portfolio:
 
 ### Ala Moana Surf Spot Overview
-![Surf Spot 1](./images/boatHarborSurfSpots.jpg)
+![Surf Spot 1](./images/alaMoana.jpg)
 *Description: These 5 prime breaks offer a wide assortment of waves depeneding on the day, ranging from light longboarding to hollow barrels.*
 
 ### Surf Spot 2
