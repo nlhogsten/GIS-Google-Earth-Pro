@@ -1,6 +1,6 @@
 # GIS Surf Spots Portfolio
 
-Welcome to my GIS portfolio! This project showcases a collection of Google Earth Pro screenshots highlighting the surf spots at my local break in Ala Moana. The aim of this project is to blend GIS technology with my passion for surfing, demonstrating the spatial context of my favorite surf locations.
+This project showcases a collection of Google Earth Pro screenshots highlighting the surf spots at my local break in Ala Moana. The aim of this project is to blend GIS technology with my passion for surfing, demonstrating the spatial context of my favorite surf locations.
 
 ## Project Overview
 
@@ -17,9 +17,9 @@ Welcome to my GIS portfolio! This project showcases a collection of Google Earth
 
 Below are some examples of the surf spots featured in this portfolio:
 
-### Surf Spot 1
+### Ala Moana Surf Spot Overview
 ![Surf Spot 1](./images/boatHarborSurfSpots.jpg)
-*Description: A prime break with clear wave patterns captured at sunrise.*
+*Description: These 5 prime breaks offer a wide assortment of waves depeneding on the day, ranging from light longboarding to hollow barrels.*
 
 ### Surf Spot 2
 ![Surf Spot 2](./images/paddlePaths.jpg)
