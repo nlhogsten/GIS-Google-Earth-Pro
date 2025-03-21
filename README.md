@@ -19,16 +19,12 @@ Welcome to my GIS portfolio! This project showcases a collection of Google Earth
 Below are some examples of the surf spots featured in this portfolio:
 
 ### Surf Spot 1
-![Surf Spot 1](./images/surf_spot_1.png)
+![Surf Spot 1](./images/boatHarborSurfSpots.jpg)
 *Description: A prime break with clear wave patterns captured at sunrise.*
 
 ### Surf Spot 2
-![Surf Spot 2](./images/surf_spot_2.png)
+![Surf Spot 2](./images/paddlePaths.jpg)
 *Description: A scenic view of the coastline with optimal conditions for intermediate surfers.*
-
-### Surf Spot 3
-![Surf Spot 3](./images/surf_spot_3.png)
-*Description: The perfect spot for locals, offering a unique blend of natural beauty and challenging waves.*
 
 ## How This Project Was Made
 
