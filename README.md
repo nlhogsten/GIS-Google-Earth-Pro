@@ -1,6 +1,6 @@
 # GIS Ala Moana Surf Spots Portfolio
 
-This project showcases a collection of Google Earth Pro screenshots highlighting the surf spots at my local break in Ala Moana in Honolulu, Hawai'i. The aim of this project is to blend GIS technology with knowledge of these surf spots, demonstrating the spatial context of my favorite surf locations.
+This project showcases a collection of Google Earth Pro 2D and 3D screenshots highlighting the surf spots at my local surf break in Ala Moana in Honolulu, Hawai'i. The aim of this project is to blend GIS technology with knowledge of these surf spots, demonstrating the spatial context of my favorite surf locations.
 
 ## Project Overview
 
@@ -13,31 +13,25 @@ This project showcases a collection of Google Earth Pro screenshots highlighting
 - **Location:**  
   Ala Moana, known for its vibrant surf culture and ideal local breaks.
 
-## Gallery
+## Surf Spot Overview
 
 Below are some examples of the surf spots featured in this portfolio:
 
 ### Ala Moana Surf Spot Overview
 ![Surf Spot 1](./images/alaMoana.jpg)
-*Description: These 5 prime breaks offer a wide assortment of waves depeneding on the day, ranging from light longboarding to hollow barrels.*
+*Description: These surf breaks offer a wide assortment of waves depending on the day, ranging from light longboarding to hollow barrels.*
 
 ### Surf Spot 2
 ![Surf Spot 2](./images/paddlePaths.jpg)
-*Description: A scenic view of the coastline with optimal conditions for intermediate surfers.*
+*Description: The Ala Moana Boat Harbor offers access to Bowls, Kaisers, Rockpiles and In Betweens. Fours is not surfed often..*
 
 ## How This Project Was Made
 
 1. **Data Collection:**  
-   Google Earth Pro was used to capture detailed screenshots of the surf spots. Each image was taken during different times of the day to highlight varying conditions.
+   Google Earth Pro was used to capture detailed 3D and 2D screenshots of the surf spots.
    
 2. **GIS Analysis:**  
-   The images were analyzed to identify key geographical features such as wave break patterns, shoreline contours, and accessibility.
-   
-3. **Image Processing:**  
-   Screenshots were refined using graphic editing tools to annotate and enhance the imagery for better clarity.
-   
-4. **Documentation:**  
-   This repository houses the final images along with documentation on the methods and findings from the GIS analysis.
+   The images were analyzed to identify key geographical features such as wave break patterns, parking, and wave accessibility.
 
 ## Future Enhancements
 
