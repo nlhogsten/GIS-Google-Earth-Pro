@@ -21,9 +21,13 @@ Below are some examples of the surf spots featured in this portfolio:
 ![Surf Spot 1](./images/alaMoana.jpg)
 *Description: These surf breaks offer a wide assortment of waves depending on the day, ranging from light longboarding to hollow barrels.*
 
-### Surf Spot 2
+### Get to Surf Breaks from the Ala Moana Boat Harbor
 ![Surf Spot 2](./images/paddlePaths.jpg)
 *Description: The Ala Moana Boat Harbor offers access to Bowls, Kaisers, Rockpiles and In Betweens. Fours is not surfed often..*
+
+### Get to Surf Breaks from the Kewalo Harbor Basin
+![Surf Spot 2](./images/kewalo.jpg)
+*Description: The Kewalo Harbor Basin offers access to Kewalos and Marineland*
 
 ## How This Project Was Made
 
