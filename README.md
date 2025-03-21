@@ -29,6 +29,10 @@ Below are some examples of the surf spots featured in this portfolio:
 ![Surf Spot 2](./images/kewalo.jpg)
 *Description: The Kewalo Harbor Basin offers access to Kewalos and Marineland*
 
+### Get to Surf Breaks from Ala Moana Beach Park
+![Surf Spot 2](./images/alaMoana2.jpg)
+*Description: The Ala Moana Beach Park offers access to Concessions, Tennis Courts, Bomburas, Baby Haleiwas, and Big Rights.*
+
 ## How This Project Was Made
 
 1. **Data Collection:**  
