@@ -1,4 +1,3 @@
-# GIS-Google-Earth-Pro
 # GIS Surf Spots Portfolio
 
 Welcome to my GIS portfolio! This project showcases a collection of Google Earth Pro screenshots highlighting the surf spots at my local break in Ala Moana. The aim of this project is to blend GIS technology with my passion for surfing, demonstrating the spatial context of my favorite surf locations.
